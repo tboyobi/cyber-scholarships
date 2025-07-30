@@ -1,0 +1,311 @@
+{
+  "universities": [
+    {
+      "name": "CyberMACS Consortium (Erasmus Mundus)",
+      "region": "Europe",
+      "url": "https://cybermacs.eu/scholarships/",
+      "program": "Erasmus Mundus Joint Master Degree in Applied Cybersecurity",
+      "scholarshipTypes": [
+        {
+          "name": "Erasmus Mundus Scholarship 2025",
+          "type": "full_scholarship",
+          "coverage": "Full tuition, travel allowance, living stipend",
+          "duration": "2 years",
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "Georgetown University",
+      "region": "North America",
+      "url": "https://cyberfellows.georgetown.edu/",
+      "program": "Master's in Cybersecurity",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": "Full tuition and stipend",
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": "Government cybersecurity employment after graduation",
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": "May 5, 2025"
+        }
+      ]
+    },
+    {
+      "name": "University of North Carolina Charlotte",
+      "region": "North America",
+      "url": "https://cci.charlotte.edu/departments/software-and-information-systems-sis/scholarships/cybercorps-scholarship-service-sfs/",
+      "program": "MS Cybersecurity",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": "Full funding for students within two years of graduation",
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": "April 15, 2025"
+        }
+      ]
+    },
+    {
+      "name": "University of Massachusetts Dartmouth",
+      "region": "North America",
+      "url": "https://www.umassd.edu/cybersecurity-center/cybercorps/",
+      "program": "Cybersecurity Graduate Programs",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": "U.S. security clearance eligibility required",
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": {
+            "priority_deadline": "March 15, 2025",
+            "final_deadline": "April 29, 2025"
+          },
+          "levels": null,
+          "note": null,
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "Marymount University",
+      "region": "North America",
+      "url": "https://marymount.edu/academics/college-of-business-innovation-leadership-and-technology/school-of-technology-and-innovation/empowering-future-tech-careers/",
+      "program": "Master's in Cybersecurity",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": "Full scholarships for 2-3 years",
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": "undergraduate, masters, doctoral",
+          "note": null,
+          "lastUpdated": "February 28, 2025"
+        }
+      ]
+    },
+    {
+      "name": "Pace University",
+      "region": "North America",
+      "url": "https://www.pace.edu/seidenberg/faculty-and-research/centers-and-labs/cybersecurity-education-and-research-lab-1",
+      "program": "Information Assurance and Cybersecurity Graduate Programs",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": "National Science Foundation grant",
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "University of Washington Tacoma",
+      "region": "North America",
+      "url": "https://www.tacoma.uw.edu/set/tuition/cybercorps",
+      "program": "Cybersecurity Graduate Programs",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": "Security clearance lifestyle compatibility",
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "California State University San Bernardino",
+      "region": "North America",
+      "url": "https://www.csusb.edu/cybersecurity/student-resources/cybersecurity-student-opportunities/cybercorpsr-scholarship-service",
+      "program": "Cybersecurity Graduate Programs",
+      "scholarshipTypes": [
+        {
+          "name": "CyberCorps Scholarship for Service",
+          "type": "full_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": "NSF grant award number 2043237",
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "region": "North America",
+      "url": "https://ctf.asu.edu/education/scholarship/",
+      "program": "Cybersecurity Graduate Programs",
+      "scholarshipTypes": [
+        {
+          "name": "Cybersecurity Scholarship Program",
+          "type": "full_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": null,
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": "Applications not currently being accepted - check for future openings",
+          "lastUpdated": null
+        }
+      ]
+    },
+    {
+      "name": "University of San Diego",
+      "region": "North America",
+      "url": "https://onlinedegrees.sandiego.edu/cyber-security-scholarships/",
+      "program": "Master's in Cybersecurity",
+      "scholarshipTypes": [
+        {
+          "name": "AFCEA Scholarships",
+          "type": "partial_scholarship",
+          "coverage": null,
+          "duration": null,
+          "requirements": null,
+          "serviceRequirement": null,
+          "fundingSource": null,
+          "specificScholarships": [
+            {
+              "name": "Ralph W. Shrader Graduate Diversity Scholarship",
+              "amount": "$3,000"
+            },
+            {
+              "name": "War Veterans Scholarship",
+              "amount": "$3,000"
+            }
+          ],
+          "applicationDeadlines": null,
+          "levels": null,
+          "note": null,
+          "lastUpdated": "January 14, 2025"
+        }
+      ]
+    }
+  ],
+  "databases": [
+    {
+      "name": "NICCS Cybersecurity Scholarships",
+      "url": "https://niccs.cisa.gov/education-training/cybersecurity-scholarships",
+      "pageType": "Government Resource Database",
+      "description": "Official U.S. government database of cybersecurity scholarship opportunities",
+      "focus": "Government service-based scholarships",
+      "totalFunding": null,
+      "lastUpdated": null
+    },
+    {
+      "name": "Bold.org Cybersecurity Scholarships",
+      "url": "https://bold.org/scholarships/by-major/cybersecurity-scholarships/",
+      "pageType": "Scholarship Platform",
+      "description": "35+ cybersecurity scholarships available through 2025",
+      "focus": null,
+      "totalFunding": "Up to $7M in 2025",
+      "lastUpdated": null
+    },
+    {
+      "name": "Cybersecurity Guide Scholarship Resources",
+      "url": "https://cybersecurityguide.org/resources/scholarship-guide/",
+      "pageType": "Educational Resource",
+      "description": "Comprehensive guide to cybersecurity-specific financial aid",
+      "focus": null,
+      "totalFunding": null,
+      "lastUpdated": "April 21, 2025"
+    },
+    {
+      "name": "Scholarships.com Cybersecurity Directory",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity",
+      "pageType": "Scholarship Directory",
+      "description": "Academic major-specific cybersecurity scholarship listings",
+      "focus": null,
+      "totalFunding": null,
+      "lastUpdated": null
+    },
+    {
+      "name": "Masters Portal Cybersecurity Scholarships",
+      "url": "https://www.mastersportal.com/search/scholarships/master/cyber-security",
+      "pageType": "Academic Portal",
+      "description": "2,319+ scholarships specifically for Master's in Cyber Security programs",
+      "focus": null,
+      "totalFunding": null,
+      "lastUpdated": null
+    }
+  ],
+  "highlights": [
+    {
+      "program": "CyberCorps Scholarship for Service",
+      "type": "full_scholarship",
+      "availability": "Multiple universities across North America",
+      "requirement": "Government service commitment after graduation",
+      "benefits": "Full tuition, stipend, guaranteed employment",
+      "mobility": null,
+      "applicationNote": "Deadlines vary by university - check individual institution pages"
+    },
+    {
+      "program": "Erasmus Mundus CyberMACS",
+      "type": "full_scholarship",
+      "availability": "European consortium program",
+      "requirement": "None - merit-based selection",
+      "benefits": "Full funding including living allowance and travel",
+      "mobility": "Study across multiple European countries",
+      "applicationNote": null
+    }
+  ],
+  "updates": [
+    "CyberCorps programs actively recruiting with updated deadlines through April 2025",
+    "Erasmus Mundus CyberMACS continues full funding for 2025 cohort",
+    "Multiple new university partnerships added to CyberCorps program",
+    "Bold.org expanded to 35+ cybersecurity scholarships with $7M total funding",
+    "Application deadlines vary - most CyberCorps programs have spring deadlines"
+  ],
+  "generatedAt": "2025-07-30T07:13:25.018Z"
+}

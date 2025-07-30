@@ -1,8 +1,12 @@
+// puppeteerScraper.js
+import fs from "fs/promises";
 import puppeteer from "puppeteer";
-import fs from "fs";
-import universities from "./universityList.json" assert { type: "json" };
 
 const KEYWORDS = /(scholarship|grant|stipend|financial aid|Cybersecurity)/i;
+
+const universities = JSON.parse(
+  await fs.readFile("./universityList.json", "utf-8")
+);
 
 async function scrapeDynamic() {
   const browser = await puppeteer.launch({ headless: true });
@@ -11,6 +15,7 @@ async function scrapeDynamic() {
 
   for (const uni of universities) {
     if (!uni.dynamic) continue;
+
     try {
       await page.goto(uni.url, { waitUntil: "networkidle2" });
       const text = await page.evaluate(() => document.body.innerText);
@@ -26,7 +31,7 @@ async function scrapeDynamic() {
   }
 
   await browser.close();
-  fs.writeFileSync(
+  await fs.writeFile(
     "./output/dynamic_results.json",
     JSON.stringify(results, null, 2)
   );
