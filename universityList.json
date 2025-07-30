@@ -1,0 +1,22 @@
+[
+    {
+        "name": "University of York",
+        "url": "https://www.york.ac.uk/computer-science/study/postgraduate-taught/funding/",
+        "dynamic": false
+    },
+    {
+        "name": "Lancaster University",
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/cyber-security-msc/2024/",
+        "dynamic": false
+    },
+    {
+        "name": "Erasmus CYBERUS",
+        "url": "https://master-cyberus.eu/",
+        "dynamic": true
+    },
+    {
+        "name": "UNC Charlotte SFS",
+        "url": "https://cci.charlotte.edu/departments/software-and-information-systems-sis/scholarships/cybercorps-scholarship-service-sfs/",
+        "dynamic": true
+    }
+]
